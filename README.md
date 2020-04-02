@@ -7,7 +7,7 @@ Created as Project 2 during DU Coding Bootcamp. The challenge was to create a fu
 ## User Story
 
 - AS A human,
-- I WANT a centralized where I can go to learn more about recycling in my area
+- I WANT a centralized location where I can go to learn more about recycling in my area
 - SO THAT I can be more environmentally responsible.
 
 ## Overview
