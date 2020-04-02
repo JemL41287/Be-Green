@@ -25,11 +25,11 @@ BeGreen is an application that assists the user in finding more information abou
 
 ## Log In or Sign Up:
 
-![Signup]( "signup")
+![Signup](public/assets/images/login.png "signup")
 
 ## Member Page
 
-![create]( "create")
+![create](public/assets/images/members.png "create")
 
 ## Tech used
 
