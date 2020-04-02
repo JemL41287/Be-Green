@@ -56,7 +56,3 @@ BeGreen is an application that assists the user in finding more information abou
 - **Jen Mullin** - Full-Stack Development
 - **Carina Manent** - Full-Stack Development
 - **Violet, Indigo** - Full-Stack Development
-
-test
-test
-test
