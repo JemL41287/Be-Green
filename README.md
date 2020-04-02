@@ -16,7 +16,7 @@ BeGreen is an application that assists the user in finding more information abou
 
 ## Utilizing the App
 
-- Experience the deployed app on Heroku: [Here](https://dubootcampbegreen.herokuapp.com/signup "Here")
+- Experience the deployed app on Heroku: [Here](https://dubootcampbegreen.herokuapp.com "Here")
 - User is routed to "Login" page, where the user can "Login" or click to "Sign Up"
 - After the user signs up, they are brought to their member homepage where they can learn more about recycling and find recyling locations near them.
 
