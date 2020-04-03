@@ -63,13 +63,13 @@ module.exports = function(app) {
     });
   });
 
-  /* Finding Users By Id and Itineraries */
+
   app.get("/api/users/:id", (req, res) => {
     db.User.findOne({
       where: {
         id: req.params.id
       }
-      //include: [db.Itineraries]
+
     }).then(dbUser => {
       res.json(dbUser);
     });
