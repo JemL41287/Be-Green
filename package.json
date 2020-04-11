@@ -17,6 +17,7 @@
     "animate.css": "^3.7.2",
     "bcryptjs": "2.4.3",
     "bulma-calendar": "^6.0.7",
+    "compression": "^1.7.4",
     "dotenv": "^8.2.0",
     "express": "^4.17.0",
     "express-handlebars": "^3.1.0",
